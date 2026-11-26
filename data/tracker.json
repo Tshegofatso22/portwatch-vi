@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T07:37:39.644Z",
+  "updated": "2026-11-26T09:18:16.337Z",
   "site": {
     "title": "PortWatch VI",
     "heroImage": "assets/img/hero-miami.jpg"
@@ -798,9 +798,9 @@
       },
       "verification": "portwatch",
       "stats": {
-        "stars": 1691,
-        "forks": 305,
-        "openIssues": 196,
+        "stars": 1705,
+        "forks": 304,
+        "openIssues": 208,
         "createdAt": "2026-11-25T09:41:37Z",
         "pushedAt": "2026-11-26T00:57:17Z",
         "archived": false,
@@ -851,8 +851,8 @@
       },
       "verification": "portwatch",
       "stats": {
-        "stars": 999,
-        "forks": 128,
+        "stars": 1002,
+        "forks": 124,
         "openIssues": 64,
         "createdAt": "2026-11-25T12:14:33Z",
         "pushedAt": "2026-11-26T01:12:12Z",
@@ -963,9 +963,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 211,
+        "stars": 210,
         "forks": 47,
-        "openIssues": 73,
+        "openIssues": 75,
         "createdAt": "2026-11-24T10:05:17Z",
         "pushedAt": "2026-11-26T04:09:11Z",
         "archived": false,
@@ -1020,11 +1020,11 @@
       },
       "verification": "portwatch",
       "stats": {
-        "stars": 1257,
-        "forks": 337,
-        "openIssues": 130,
+        "stars": 1357,
+        "forks": 377,
+        "openIssues": 102,
         "createdAt": "2026-11-25T22:18:14Z",
-        "pushedAt": "2026-11-26T07:19:15Z",
+        "pushedAt": "2026-11-26T08:36:51Z",
         "archived": false,
         "missing": false,
         "commits7d": 100,
@@ -1033,7 +1033,7 @@
       "assessedAt": "2026-11-25",
       "assessedBy": "manual",
       "claims": [],
-      "readmeSha": "53b32d03ac4fafe05c29835c0853cc26b356063791f82bea52a43aa03ac2ece7",
+      "readmeSha": "5c2eebafd6dad71391605803e1388c14fc967662c53ce038a2b6f4752302cb3c",
       "readmeChangedAt": "2026-11-26"
     },
     {
@@ -1310,9 +1310,10 @@
         "createdAt": "2026-11-26T04:16:02Z",
         "pushedAt": "2026-11-26T06:58:37Z",
         "archived": false,
-        "missing": false,
+        "missing": true,
         "commits7d": 100,
-        "mentions7d": 1
+        "mentions7d": 1,
+        "missingStatus": 404
       },
       "assessedAt": "2026-11-26",
       "assessedBy": "manual",
@@ -1358,11 +1359,11 @@
         "fxceless/victory-gta6"
       ],
       "stats": {
-        "stars": 3160,
-        "forks": 924,
-        "openIssues": 1139,
+        "stars": 3168,
+        "forks": 937,
+        "openIssues": 1145,
         "createdAt": "2026-11-24T18:02:37Z",
-        "pushedAt": "2026-11-26T05:52:15Z",
+        "pushedAt": "2026-11-26T08:37:07Z",
         "archived": false,
         "missing": false,
         "commits7d": 100
@@ -1370,7 +1371,7 @@
       "assessedAt": "2026-11-24",
       "assessedBy": "manual",
       "claims": [],
-      "readmeSha": "da6fe0d02d3bae7652496e33326f4c2da3292f29f1a01e705a822ad12fb13743",
+      "readmeSha": "a370a9d841ab64461dacf316b59d8208d8e560bf1e517b4f0da2339c358ed0f1",
       "readmeChangedAt": "2026-11-26"
     },
     {
@@ -1409,9 +1410,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 12792,
-        "forks": 2101,
-        "openIssues": 1869,
+        "stars": 12847,
+        "forks": 2111,
+        "openIssues": 1889,
         "createdAt": "2026-11-23T21:47:25Z",
         "pushedAt": "2026-11-25T23:27:48Z",
         "commits7d": 100,
@@ -1467,9 +1468,9 @@
         "drycheetah84/TomBox"
       ],
       "stats": {
-        "stars": 1849,
-        "forks": 122,
-        "openIssues": 53,
+        "stars": 1850,
+        "forks": 123,
+        "openIssues": 54,
         "createdAt": "2026-11-21T08:08:39Z",
         "pushedAt": "2026-11-25T13:47:56Z",
         "commits7d": 100,
@@ -1525,9 +1526,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 8389,
-        "forks": 1160,
-        "openIssues": 1717,
+        "stars": 8402,
+        "forks": 1161,
+        "openIssues": 1744,
         "createdAt": "2026-11-20T20:03:21Z",
         "pushedAt": "2026-11-26T06:10:46Z",
         "commits7d": 100,
@@ -1582,7 +1583,7 @@
       "stats": {
         "stars": 268,
         "forks": 27,
-        "openIssues": 32,
+        "openIssues": 39,
         "createdAt": "2026-11-20T06:54:47Z",
         "pushedAt": "2026-11-22T10:38:07Z",
         "commits7d": 57,
@@ -1638,10 +1639,10 @@
       "verification": "self-reported",
       "stats": {
         "stars": 374,
-        "forks": 42,
-        "openIssues": 12,
+        "forks": 44,
+        "openIssues": 13,
         "createdAt": "2026-11-21T12:07:28Z",
-        "pushedAt": "2026-11-26T03:13:13Z",
+        "pushedAt": "2026-11-26T08:27:36Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
@@ -1821,18 +1822,18 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 104,
+        "stars": 103,
         "forks": 12,
-        "openIssues": 13,
+        "openIssues": 8,
         "createdAt": "2026-11-21T14:35:25Z",
-        "pushedAt": "2026-11-26T07:16:10Z",
+        "pushedAt": "2026-11-26T08:35:50Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
       },
       "assessedAt": "2026-11-23",
       "assessedBy": "claude",
-      "readmeSha": "ee3f35fe03cd27aba2b8c731441f6abccd58604d57bdd3a5f9af4fd240281204",
+      "readmeSha": "79834c998bc1f78ea2daf995b74976c756100ad6a6b86586c70d0f535102dc56",
       "claims": [],
       "readmeChangedAt": "2026-11-26"
     },
@@ -1936,18 +1937,18 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 1959,
-        "forks": 231,
-        "openIssues": 161,
+        "stars": 1961,
+        "forks": 232,
+        "openIssues": 165,
         "createdAt": "2026-11-20T17:43:52Z",
-        "pushedAt": "2026-11-26T07:34:18Z",
+        "pushedAt": "2026-11-26T09:08:38Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
       },
       "assessedAt": "2026-11-24",
       "assessedBy": "manual",
-      "readmeSha": "b8ec15355bf53a66ee7bbb8d048cdb21050cbaa18ec4c7a3703ab82c1b5d8c06",
+      "readmeSha": "73ef157e3253ce0f74567638e168b263f5014c5044cc61e64b42f174f03e1c7d",
       "claims": [],
       "readmeChangedAt": "2026-11-26"
     },
@@ -1993,9 +1994,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 387,
+        "stars": 391,
         "forks": 62,
-        "openIssues": 82,
+        "openIssues": 84,
         "createdAt": "2026-11-21T00:18:13Z",
         "pushedAt": "2026-11-26T02:07:12Z",
         "commits7d": 100,
@@ -2157,9 +2158,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 68,
-        "forks": 12,
-        "openIssues": 17,
+        "stars": 69,
+        "forks": 13,
+        "openIssues": 18,
         "createdAt": "2026-11-19T20:32:01Z",
         "pushedAt": "2026-11-25T12:51:20Z",
         "commits7d": 56,
@@ -2315,19 +2316,19 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 3,
-        "forks": 0,
+        "stars": 4,
+        "forks": 1,
         "openIssues": 0,
         "createdAt": "2026-11-20T19:20:23Z",
-        "pushedAt": "2026-11-26T05:08:36Z",
-        "commits7d": 92,
+        "pushedAt": "2026-11-26T09:13:11Z",
+        "commits7d": 93,
         "archived": false,
         "missing": false,
         "missingStatus": 404
       },
       "assessedAt": "2026-11-23",
       "assessedBy": "claude",
-      "readmeSha": "b3cd04aab49e3503b5024594634069372e206dc8d6112a00681599279805031c",
+      "readmeSha": "c62141b4d544ee45d5ac92b9112a3a11f51d663d0ca29b1c4d8f198f1cad21c4",
       "claims": [],
       "readmeChangedAt": "2026-11-26"
     },
@@ -2372,7 +2373,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 43,
+        "stars": 42,
         "forks": 5,
         "openIssues": 3,
         "createdAt": "2026-11-21T16:49:38Z",
@@ -2810,7 +2811,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 87,
+        "stars": 88,
         "forks": 4,
         "openIssues": 1,
         "createdAt": "2026-11-21T04:47:46Z",
@@ -2925,7 +2926,7 @@
         "forks": 14,
         "openIssues": 13,
         "createdAt": "2026-11-23T09:57:42Z",
-        "pushedAt": "2026-11-26T07:31:59Z",
+        "pushedAt": "2026-11-26T09:00:43Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
@@ -3086,11 +3087,11 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 13,
+        "stars": 14,
         "forks": 3,
         "openIssues": 0,
         "createdAt": "2026-11-24T22:05:23Z",
-        "pushedAt": "2026-11-26T04:35:00Z",
+        "pushedAt": "2026-11-26T09:16:36Z",
         "commits7d": 100,
         "archived": false,
         "missing": false,
@@ -3131,7 +3132,7 @@
       "desc": "CLI and desktop app: models to glTF, textures and map data from your own install.",
       "stats": {
         "stars": 114,
-        "pushedAt": "2026-11-26T07:35:40Z"
+        "pushedAt": "2026-11-26T08:03:33Z"
       }
     },
     {
@@ -3201,7 +3202,7 @@
       "kind": "Curated list",
       "desc": "Running list of open-source GTA VI reverse-engineering tools and layers.",
       "stats": {
-        "stars": 754,
+        "stars": 757,
         "pushedAt": "2026-11-26T00:58:17Z"
       }
     },
@@ -3242,7 +3243,7 @@
       "desc": "Pulls music streams (AWC) out of RPF9 archives.",
       "stats": {
         "stars": 3,
-        "pushedAt": "2026-11-25T23:09:00Z"
+        "pushedAt": "2026-11-26T09:11:03Z"
       }
     },
     {
@@ -3313,7 +3314,7 @@
       "desc": "Rust RPF9 toolkit: inspect, extract and repack archives using keys from your own copy.",
       "stats": {
         "stars": 8,
-        "pushedAt": "2026-11-26T07:21:14Z"
+        "pushedAt": "2026-11-26T07:52:19Z"
       }
     },
     {
@@ -3625,7 +3626,7 @@
       "language": "Rust",
       "stars": 0,
       "createdAt": "2026-11-24T23:14:04Z",
-      "pushedAt": "2026-11-25T19:11:03Z",
+      "pushedAt": "2026-11-26T08:46:46Z",
       "defaultBranch": "main",
       "sources": [
         "GitHub search"
@@ -4088,7 +4089,7 @@
       "id": "copies",
       "pattern": "Re-uploads of tracked projects under other accounts",
       "label": "",
-      "count": 100,
+      "count": 101,
       "reason": "Copies can be quietly modified to bundle malware. Only use the original repositories linked in the race above.",
       "members": [
         "FaelSemW/RafaVI",
@@ -4190,7 +4191,8 @@
         "Lilpez/xcl-ztrx",
         "CrazyForGTA/Leonida",
         "KatanaCZ/Prometheus",
-        "zsy-miao/keylime"
+        "zsy-miao/keylime",
+        "Aoody743/VIctory-7900XTX-backup"
       ]
     }
   ],
@@ -7666,24 +7668,33 @@
       "pushedAt": "2026-11-25T11:34:37Z"
     },
     {
+      "repo": "Aoody743/VIctory-7900XTX-backup",
+      "reason": "copy of avatarmanz/VIctory-7900XTX (100% same README)",
+      "seenAt": "2026-11-26"
+    },
+    {
+      "repo": "aweineverdie7/gta6-pc-status-benchmarks",
+      "reason": "thin (substance 0)",
+      "auto": true,
+      "seenAt": "2026-11-26",
+      "pushedAt": "2026-11-26T08:16:23Z"
+    },
+    {
       "repo": "DinosaurPlanetRecomp/dino-recomp",
       "reason": "off-topic (not about GTA VI or Xbox Series)",
       "auto": true,
       "seenAt": "2026-11-26",
       "pushedAt": "2026-11-25T08:54:44Z"
+    },
+    {
+      "repo": "gitlab.com/streets-of-los-santos/sols-launcher",
+      "reason": "off-topic (not about GTA VI or Xbox Series)",
+      "auto": true,
+      "seenAt": "2026-11-26",
+      "pushedAt": "2026-11-26T07:45:59.145Z"
     }
   ],
   "changes": [
-    {
-      "date": "2026-11-25",
-      "kind": "new",
-      "text": "Scout spotted GuoqiFish/WelcomeToFlorida (possible effort, substance 43)."
-    },
-    {
-      "date": "2026-11-25",
-      "kind": "new",
-      "text": "Scout spotted voidopcode/vilocity (possible effort, substance 89)."
-    },
     {
       "date": "2026-11-25",
       "kind": "new",
@@ -8073,6 +8084,16 @@
       "date": "2026-11-26",
       "kind": "new",
       "text": "Scout spotted nowrokink/flamingo-port (possible effort, substance 63)."
+    },
+    {
+      "date": "2026-11-26",
+      "kind": "removed",
+      "text": "CGBJ is no longer reachable on GitHub (HTTP 404)."
+    },
+    {
+      "date": "2026-11-26",
+      "kind": "up",
+      "text": "NotNozy takes the lead at 87.8%."
     }
   ],
   "history": [
@@ -8118,9 +8139,9 @@
     },
     {
       "date": "2026-11-26",
-      "leader": 91.5,
-      "leaderId": "cgbj",
-      "top3": 88,
+      "leader": 87.8,
+      "leaderId": "notnozy",
+      "top3": 85.5,
       "furthest": "playable",
       "tracked": 43
     }
@@ -8164,12 +8185,19 @@
       "xbox series emulator"
     ],
     "x": "(\"gta 6\" OR \"gta vi\" OR gta6) (recomp OR emulator OR \"pc port\" OR scarlett) github.com -is:retweet",
-    "lastRun": "2026-11-26T07:37:39.644Z",
-    "lastSummary": "32 refreshed, 5 READMEs changed, 5 new candidates, 0 flagged.",
-    "lastDmcaCheck": "2026-11-26T07:37:39.644Z",
+    "lastRun": "2026-11-26T09:18:16.337Z",
+    "lastSummary": "31 refreshed, 5 READMEs changed, 0 new candidates, 1 flagged.",
+    "lastDmcaCheck": "2026-11-26T09:18:16.337Z",
     "lastEditorRun": "2026-11-25T19:48:37.000Z"
   },
   "headlines": [
+    {
+      "title": "Take-Two Took Down 3,007 GTA 6 PC Port Repositories With One Notice, and Says the Xbox Build Was Stolen",
+      "outlet": "TalkEsport",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTJiMWFpTFlTTkdHVkZNUWhhQnUxVkRMVXRwQnoyUWFtVWcxTi1MNVFQTWlYTDZESER1RVpzRmpDd2Ytd1dZdHREYnNyQmVTaW9SdUo0Yk9ETXI5YVFIWTVldzRBcjRlOEhfMnE0Rkw1V29qbjllNC1vX3p3UlY5WU54MmtVYTY1ZExwc0FONlNGMldQU09DZnp3?oc=5",
+      "date": "2026-11-26T07:54:28.000Z",
+      "via": "Google News"
+    },
     {
       "title": "Leonida DMCA: 1 Repo, 2,900+ Forks, No GTA 6 PC Date",
       "outlet": "shattered.io",
@@ -8326,8 +8354,8 @@
     },
     {
       "title": "It seems GTA 6 on PC is making steady progress, but Rockstar is not making it easy for emulation devs",
-      "outlet": "Destructoid",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MDFuSTJDVUlIT0hhTGp5ZjNDbGtKZGpzVWxGMi12OEFhZkFyMkVTX21SQ01xbDgwa0tFTWNkZkxVNUphS1VnYWpSY2psOXFiZ1pnZ2Rmd1VRR0c4ZzlIQlR0SQ?oc=5",
+      "outlet": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWR3S2ZpNUZGUVM4clR1MEdMbk1FOEZ6WHJJWHY0bUxEcDZ2WXBNMTdkRTRobkthVUtIbjBwcGtrajA5LTYzZklBV1Z6NGZnYzB5dWc2WGViejlveDZvRXJSZWVHRkM3WEhOWGZ3SUJ4Y1JUUm1fTHlEVXJZcDlGVQ?oc=5",
       "date": "2026-11-25T18:06:00.000Z",
       "via": "Google News"
     },
@@ -8371,13 +8399,6 @@
       "outlet": "stupidDOPE",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkdKYmkyYllTaE5FcFhSSGpPMGlZS0VjLTdBUGxQcjg1TVh6N00xQWU1ZFhzbFNHZTNqeXhjOTg0VWtEVG5BemthM3owcW1EWFVKLWRzN2JOdnZMR3djUkR1UjVjbHkyc0ItNjRhVExLWDdDcFBTTmZkbC1HSXZZdGJEcVFmOUdaU3FNenFjLWVqWmZ3MjV5RnRzaDhrcXJzZkNpdUpNZEZ5eDd1dUNzS3R0YkQ?oc=5",
       "date": "2026-11-25T16:35:43.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 is locked to 30fps on my PS5, but I found a way to play it at 60fps through my PC",
-      "outlet": "XDA",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDBQR29OOWR5c3N6dWZHWnpGYm82UnJhdG1ad0RDV0VOSVBEaUtVeTY4WWNEUnh2dE05clpOeUpNclR3cnBsc0JILVJnT21kc0tYM09MWXlmOGZjNGFoOUZBWHZROTRaTXJ0NzlXZ3JkR1JnalBSem1RbUk1UV9lOTBGOWhLYkhOMVZMd2FhUGR3b3EzSWJqR0VhTzRJRXNDbmIyRDd3?oc=5",
-      "date": "2026-11-25T16:30:24.000Z",
       "via": "Google News"
     }
   ],
